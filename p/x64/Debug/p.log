@@ -1,0 +1,3 @@
+﻿  p.cpp
+C:\Users\Jakub\source\repos\p\p\p.cpp(136,26): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  p.vcxproj -> C:\Users\Jakub\source\repos\p\x64\Debug\p.exe
